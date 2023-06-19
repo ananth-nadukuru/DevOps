@@ -12,4 +12,8 @@ public with sharing class Caliculator {
     public Integer substration(Integer a, Integer b){
         return a-b;
     }
+
+    public Integer multipliacation(Integer a, Integer b){
+        return a*b;
+    }
 }
