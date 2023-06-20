@@ -1,3 +1,5 @@
+// Added comments to test the feature branch
+
 public with sharing class Caliculator {
     public Caliculator() {
         // It's a public method
@@ -12,5 +14,11 @@ public with sharing class Caliculator {
         return a-b;
     }
 
+
     //testing merge conflicts
+
+    public Integer multipliacation(Integer a, Integer b){
+        return a*b;
+    }
+
 }
