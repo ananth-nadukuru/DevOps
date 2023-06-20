@@ -10,4 +10,6 @@ public with sharing class Caliculator {
     public Integer substration(Integer a, Integer b){
         return a-b;
     }
+
+    //testing merge conflicts
 }
