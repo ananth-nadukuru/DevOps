@@ -3,6 +3,7 @@ public with sharing class Caliculator {
         // It's a public method
     }
 
+        // addition method
     public Integer addition(Integer a, Integer b){
         return a+b;
     }
