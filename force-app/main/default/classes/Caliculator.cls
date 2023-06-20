@@ -13,7 +13,11 @@ public with sharing class Caliculator {
         return a-b;
     }
 
+
+    //testing merge conflicts
+
     public Integer multipliacation(Integer a, Integer b){
         return a*b;
     }
+
 }
